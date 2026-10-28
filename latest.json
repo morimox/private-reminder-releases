@@ -1,0 +1,9 @@
+{
+  "version": "0.5.6",
+  "packageUrl": "https://github.com/morimox/private-reminder-releases/releases/download/v0.5.6/PrivateReminder-win-x64.zip",
+  "sha256": "87aefb999ddabab388486a02765609e131487bd1cb5e56f8350135480a3e8f6a",
+  "packageBytes": 50236597,
+  "releaseNotes": "PrivateReminder 0.5.6",
+  "publishedAtUtc": "2026-10-28T05:47:28.9498375Z",
+  "minimumUpgradeVersion": "0.2.5"
+}
